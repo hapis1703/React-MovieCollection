@@ -40,7 +40,7 @@ Check Out [React Native Website](https://reactnative-archive-august-2023.netlify
 
 # Deployment
 
-To deploy this project to run (Make Sure You already install everything from Installation Menu)
+To deploy this project to run (Make Sure You already install everything from [Installation Menu](https://github.com/hapis1703/React-MovieCollection#installation))
 
 ```bash
   npm run android
